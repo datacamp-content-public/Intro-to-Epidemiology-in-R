@@ -35,15 +35,18 @@ The instructions that follow should be in bullet point form with clear guidance 
 ```
 `@sample_code`
 ```{r}
-# Your
-# sample
-# code
-# should
-# be
-# ideally
-# 10 lines or less,
-# with a max
-# of 16 lines.
+# Remember that prevalence = case count / population count.
+# Assign 5000 to a variable called "population".
+population <- 5000
+
+# Assign 100 to a variable called "cases".
+
+
+# Calculate prevalence by completing the formula.
+prevalence <- cases / 
+
+# Print the result 
+
 ```
 `@solution`
 ```{r}
@@ -95,10 +98,10 @@ After you calculate prevalence, the next step is interpreting it appropriately. 
 
 
 `@possible_answers`
-The global risk of influenza is 2%.
-Students have a 2% chance of acquiring influenza each year.
-[In January 2018, 2% of students had influenza.]
-Students have a 0.02% chance of acquiring influenza each year.
+- The global risk of influenza is 2%.
+- Students have a 2% chance of acquiring influenza each year.
+- [In January 2018, 2% of students had influenza.]
+- Students have a 0.02% chance of acquiring influenza each year.
 
 `@feedbacks`
 - Remember we cannot comment on the global disease burden based on a sample of students.
