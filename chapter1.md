@@ -17,8 +17,7 @@ key: 4fd567cce6
 
 ```
 
-This is the assignment text. It should help provide students with the background information needed.
-The instructions that follow should be in bullet point form with clear guidance for what is expected.
+Prevalence is the proportion of people with a disease or condition in a population at a certain time. Prevalence is calculated as the count of cases over the population at risk.
 
 `@instructions`
 - Instruction 1
@@ -27,7 +26,7 @@ The instructions that follow should be in bullet point form with clear guidance 
 - Instruction 4
 
 `@hint`
-- Type this line: cases <- 100
+- Type this line next: cases <- 100
 
 `@pre_exercise_code`
 ```{r}
