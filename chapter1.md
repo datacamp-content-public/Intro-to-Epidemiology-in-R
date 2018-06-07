@@ -61,7 +61,7 @@ prevalence
 ```
 `@sct`
 ```{r}
-success_msg("Nicely done! Measures of disease occurrence are the basis of all epidemiology.")
+success_msg("Nicely done! Prevalence is an important metric of disease burden.")
 ```
 
 
