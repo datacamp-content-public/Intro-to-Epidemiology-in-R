@@ -147,16 +147,20 @@ population_Iceland <- 330000
 cases_Iceland <- 
 
 # Prevalence in Iceland
+prevalence_Iceland <- 
 
-# Population in India
+# Population in India. (You can use scientific notation to avoid typing a long line of zeroes.)
 population_India <- 1*10^9
 
 # Cases in India
 cases_India <- 38*10^6
 
 # Prevalence in India
+prevalence_India <- 
 
-
+# Print the prevalence results
+prevalence_Iceland
+prevalence_India
 ```
 `@solution`
 ```{r}
