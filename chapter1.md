@@ -123,10 +123,9 @@ key: def437e2f4
 
 ```
 
-
+Let's practice prevalence calculations. In this example, compare the prevalence of obesity in two countries. 
 
 `@instructions`
-Let's practice prevalence calculations. In this example, compare the prevalence of obesity in two countries. 
 In 2016, 330,000 adults lived in Iceland, and 78,000 were obese. 
 In 2016, 1 billion adults lived in India, and 38 million were obese.
 What was the adult prevalence of obesity in each country?
@@ -135,6 +134,11 @@ What was the adult prevalence of obesity in each country?
 
 
 `@pre_exercise_code`
+```{r}
+
+
+```
+`@sample_code`
 ```{r}
 # Population in Iceland
 population_Iceland <- 330000
@@ -153,10 +157,33 @@ cases_India <- 38*10^6
 # Prevalence in India
 
 
-
 ```
+`@solution`
+```{r}
+# Population in Iceland
+population_Iceland <- 330000
 
+# Cases of obesity in Iceland
+cases_Iceland <- 78000
 
+# Prevalence in Iceland
+prevalence_Iceland <- cases_Iceland / population_Iceland
+
+# Population in India
+population_India <- 1*10^9
+
+# Cases in India
+cases_India <- 38*10^6
+
+# Prevalence in India
+prevalence_India <- cases_India / population_India
+
+# Print the prevalence in Iceland
+prevalence_Iceland
+
+# Print the prevalence in India
+prevalence_India
+```
 
 
 
