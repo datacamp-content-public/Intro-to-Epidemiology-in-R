@@ -61,7 +61,7 @@ prevalence
 ```
 `@sct`
 ```{r}
-success_msg("Nicely done! Prevalence is an important metric of disease burden.")
+success_msg("Nicely done! Prevalence is an important measure of disease burden.")
 ```
 
 
