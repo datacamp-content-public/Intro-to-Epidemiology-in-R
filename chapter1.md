@@ -68,3 +68,43 @@ success_msg("Nicely done! Measures of disease occurrence are the basis of all ep
 
 
 
+
+
+---
+## Definitions
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: 50
+
+key: d7bfc3b02f
+
+
+
+```
+
+After you calculate prevalence, the next step is interpreting it appropriately. Since prevalence is measured at a specific point in time in a specific population, choose an appropriate interpretation for the influenza prevalence of 0.02 in this sample of students.
+
+
+`@hint`
+
+
+
+
+
+
+`@possible_answers`
+The global risk of influenza is 2%.
+Students have a 2% chance of acquiring influenza each year.
+[In January 2018, 2% of students had influenza.]
+Students have a 0.02% chance of acquiring influenza each year.
+
+`@feedbacks`
+- Remember we cannot comment on the global disease burden based on a sample of students.
+- Prevalence reflects current disease, whereas incidence refers to acquiring new disease.
+- Right!
+- We calculated a prevalence of 0.02, which means 2%.
+
+
+
