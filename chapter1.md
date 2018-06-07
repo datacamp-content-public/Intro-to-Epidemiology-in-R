@@ -41,8 +41,7 @@ population <- 5000
 # Calculate prevalence by completing the formula.
 prevalence <- cases / 
 
-# Print the result 
-
+# Print the result
 ```
 `@solution`
 ```{r}
@@ -86,8 +85,6 @@ key: d7bfc3b02f
 After you calculate prevalence, the next step is interpreting it appropriately. Since prevalence is measured at a specific point in time in a specific population, choose an appropriate interpretation for the influenza prevalence of 0.02 in this sample of students.
 
 
-`@hint`
-
 
 
 
@@ -123,21 +120,15 @@ key: def437e2f4
 
 ```
 
-Let's practice prevalence calculations. In this example, compare the prevalence of obesity in two countries. 
+Let's practice prevalence calculations. In this example, compare the prevalence of obesity in two countries.
 
 `@instructions`
 In 2016, 330,000 adults lived in Iceland, and 78,000 were obese. 
 In 2016, 1 billion adults lived in India, and 38 million were obese.
 What was the adult prevalence of obesity in each country?
 
-`@hint`
 
 
-`@pre_exercise_code`
-```{r}
-
-
-```
 `@sample_code`
 ```{r}
 # Population in Iceland
@@ -196,7 +187,7 @@ prevalence_India
 
 
 ---
-## Interpretation
+## Interpretation of comparison
 
 ```yaml
 type: PureMultipleChoiceExercise
