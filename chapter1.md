@@ -20,10 +20,7 @@ key: 4fd567cce6
 Prevalence is the proportion of people with a disease or condition in a population at a certain time. Prevalence is calculated as the count of cases over the population at risk.
 
 `@instructions`
-- Instruction 1
-- Instruction 2
-- Instruction 3
-- Instruction 4
+Calculate the prevalence of influenza in a population of 5000 university students living on campus in January 2018. During that time, 100 of them had influenza.
 
 `@hint`
 - Type this line next: cases <- 100
