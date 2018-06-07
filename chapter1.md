@@ -70,7 +70,7 @@ success_msg("Nicely done! Prevalence is an important measure of disease burden."
 
 
 ---
-## Definitions
+## Interpretation
 
 ```yaml
 type: PureMultipleChoiceExercise
