@@ -193,3 +193,43 @@ prevalence_India
 
 
 
+
+
+---
+## Interpretation
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: 50
+
+key: 4b9a09db39
+
+
+
+```
+
+Choose the correct interpretation for prevalence results of 0.236 in Iceland and 0.038 in India.
+
+
+`@hint`
+
+
+
+
+
+
+`@possible_answers`
+- In 2016, 3.8% of adults in Iceland and 23.6% in India were obese.
+- The risk of obesity in Iceland is 6 times the risk of obesity in India.
+- [The 2016 prevalence of obesity per 1000 adults in Iceland was 236 and in India was 38.]
+- Obesity is more severe in Iceland than it is in India.
+
+`@feedbacks`
+The results are reversed: it should say 23.6% in Iceland and 3.8% in India. Otherwise, this is a correct way to phrase the results.
+Risk is related to the chances of acquiring obesity, but prevalence only measures the proportion who currently are obese.
+Correct! You can use percent or per 1000 (or any other convenient denominator), as long as they are consistent between comparison groups.
+We can't say anything about the severity of the condition using prevalence measures.
+
+
+
