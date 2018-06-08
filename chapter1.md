@@ -203,8 +203,6 @@ key: 4b9a09db39
 Choose the correct interpretation for prevalence results of 0.236 in Iceland and 0.038 in India.
 
 
-`@hint`
-
 
 
 
@@ -224,3 +222,21 @@ We can't say anything about the severity of the condition using prevalence measu
 
 
 
+
+
+---
+## Measures of Occurrence
+
+```yaml
+type: VideoExercise
+
+xp: 50
+
+key: 52de66f16a
+
+
+
+```
+
+`@projector_key`
+b7ea212d0bae6a3d3514dd58c35b060d
