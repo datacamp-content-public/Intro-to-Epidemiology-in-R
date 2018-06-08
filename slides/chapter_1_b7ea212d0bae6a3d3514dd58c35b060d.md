@@ -69,9 +69,9 @@ key: b12f495229
 ```
 
 `@part1`
-- 30% of adults in the US are obese
-- 20% of Oregonians smoke tobacco
-- 30 of every 10,000 Americans has schizophrenia
+- 37% of adults in the US are obese
+- 16% of Oregonians smoke tobacco
+- 30 per 10,000 Americans has schizophrenia
 
 `@part2`
 
@@ -80,7 +80,7 @@ key: b12f495229
 
 
 `@script`
-
+You have probably heard many estimates of prevalence. For example it is estimated that 37% of adults in the US are obese and 16% of Oregonians smoke tobacco. For common conditions, we put prevalence in terms of percent. When a condition is rare, we use per 10 or 100 thousand. For example, 30 per 10,000 Americans has schizophrenia.
 
 
 
