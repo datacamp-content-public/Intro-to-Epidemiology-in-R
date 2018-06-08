@@ -3,7 +3,7 @@ title: Insert title here
 key: b7ea212d0bae6a3d3514dd58c35b060d
 
 ---
-## Calculate Prevalence
+## Calculating Prevalence
 
 ```yaml
 type: TitleSlide
@@ -15,8 +15,8 @@ key: 14d81baf57
 
 
 `@lower_third`
-name: Carrie Nielson, PhD
-title: Associate Professor
+name: Carrie Nielson, MPH, PhD
+title: Associate Professor, OHSU-PSU School of Public Health
 
 `@script`
 In this exercise, you'll calculate prevalence, one of the basic epidemiologic measures of disease burden.
@@ -52,6 +52,26 @@ prevalence <- cases / population
 - Make a note of the operators we will use in R:  +, -, *, /, ^
 - The assignment operator: <- 
 - And the comment character: #
+
+
+
+
+
+`@script`
+
+
+
+
+---
+## Interpretation
+
+```yaml
+type: FullImageSlide
+key: 5e5eb221ef
+```
+
+`@part1`
+![](image-url)
 
 
 
