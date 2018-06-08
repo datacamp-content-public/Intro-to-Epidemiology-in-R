@@ -49,7 +49,7 @@ prevalence <- cases / population
 
 ```
 
-- Make a note of the operators we will use in R:  +, -, *, /, ^
+- Notice the operators we will use in R:  +, -, *, /, ^
 - The assignment operator: <- 
 - And the comment character: #
 
