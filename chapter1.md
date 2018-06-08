@@ -4,7 +4,7 @@
   v2: true
 
 ---
-## 1.1 Prevalence of influenza
+## Prevalence of influenza
 
 ```yaml
 type: NormalExercise
@@ -203,6 +203,8 @@ key: 4b9a09db39
 Choose the correct interpretation for prevalence results of 0.236 in Iceland and 0.038 in India.
 
 
+`@hint`
+
 
 
 
@@ -211,7 +213,7 @@ Choose the correct interpretation for prevalence results of 0.236 in Iceland and
 `@possible_answers`
 - In 2016, 3.8% of adults in Iceland and 23.6% in India were obese.
 - The risk of obesity in Iceland is 6 times the risk of obesity in India.
-- [The 2016 prevalence of obesity per 1000 adults in Iceland was 236 and in India was 38.]
+- [The 2016 obesity prevalence per 1000 adults in Iceland was 236 and in India was 38.]
 - Obesity is more severe in Iceland than it is in India.
 
 `@feedbacks`
