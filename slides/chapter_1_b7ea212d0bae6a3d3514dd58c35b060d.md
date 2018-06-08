@@ -32,17 +32,26 @@ key: 79272ed3d3
 ```
 
 `@part1`
-- Case count
+In this example, assume we have detected 100 cases of a disease in a population of 500,000. 
 
-- Population  at risk
+```
+# Assign the value 100 to a variable called "cases".
+cases <- 100
 
-- Calculated proportion
+# Similarly, assign a variable for population at risk.
+population <- 500000
 
+# For large numbers, it can be clearer to use scientific notation.
+population <- 5 * 10^5
 
-``cases <- 100
-``population <- 500000
-``population <- 5*10^5
-``prevalence <- cases / population {{1}}
+# Finally, calculate the proportion of cases in the population.
+prevalence <- cases / population
+
+```
+
+- Make a note of the operators we will use in R:  +, -, *, /, ^
+- The assignment operator: <- 
+- And the comment character: #
 
 
 
