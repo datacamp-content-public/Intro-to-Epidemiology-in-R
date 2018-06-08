@@ -57,21 +57,23 @@ prevalence <- cases / population
 
 
 
-`@script`
-
 
 
 
 ---
-## Interpretation
+## Prevalence estimates
 
 ```yaml
-type: FullImageSlide
-key: 5e5eb221ef
+type: TwoColumns
+key: b12f495229
 ```
 
 `@part1`
-![](image-url)
+- 30% of adults in the US are obese
+- 20% of Oregonians smoke tobacco
+- 30 of every 10,000 Americans has schizophrenia
+
+`@part2`
 
 
 
